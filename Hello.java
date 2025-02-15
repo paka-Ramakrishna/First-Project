@@ -3,6 +3,6 @@ public class Hello
     public static void main(String[] args) {
         System.out.println("Hello world");
         System.out.println("I am a Developer");
-        System.out.println("This is release branch")
+        System.out.println("This is release branch");
     }
 }
